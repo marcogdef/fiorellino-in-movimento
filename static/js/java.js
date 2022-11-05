@@ -9,7 +9,7 @@ let ymov=2
 function setup(){
     createCanvas(1000,1000)
     strokeWeight(2)
-    frameRate(6)
+    frameRate(60)
     x = random(50, 900)
     y = random(50, 900)
 }
